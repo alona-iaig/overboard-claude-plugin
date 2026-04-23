@@ -1,0 +1,17 @@
+{
+  "name": "overboard",
+  "description": "Create visual boards, diagrams, and plans on Overboard Studio directly from Claude Code. Turn conversations into shareable whiteboards.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Overboard Studio",
+    "url": "https://overboard.studio"
+  },
+  "commands": [
+    "./commands/board.md",
+    "./commands/setup.md"
+  ],
+  "homepage": "https://overboard.studio",
+  "repository": "https://github.com/overboard-studio/claude-plugin",
+  "license": "MIT",
+  "keywords": ["whiteboard", "diagram", "flowchart", "collaboration", "ai", "overboard", "mcp", "visual"]
+}

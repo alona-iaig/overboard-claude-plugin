@@ -1,0 +1,39 @@
+{
+  "name": "overboard-claude",
+  "version": "0.1.0",
+  "description": "Overboard Studio plugin for Claude Code — create visual boards, diagrams, and plans from your terminal",
+  "type": "module",
+  "main": "dist/index.js",
+  "files": [
+    "dist/",
+    "src/",
+    "commands/",
+    ".claude-plugin/"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "claude-code",
+    "overboard",
+    "whiteboard",
+    "diagram",
+    "flowchart",
+    "collaboration"
+  ],
+  "author": "Overboard Studio",
+  "license": "MIT",
+  "homepage": "https://overboard.studio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/overboard-studio/claude-plugin"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
