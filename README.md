@@ -20,7 +20,7 @@ Every board is shareable, collaborative, and editable at [overboard.studio](http
 ## Install
 
 ```
-/plugin marketplace add overboard-studio/claude-plugin
+/plugin marketplace add alona-iaig/overboard-claude-plugin
 /plugin install overboard
 ```
 

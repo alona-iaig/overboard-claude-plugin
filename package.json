@@ -27,7 +27,7 @@
   "homepage": "https://overboard.studio",
   "repository": {
     "type": "git",
-    "url": "https://github.com/overboard-studio/claude-plugin"
+    "url": "https://github.com/alona-iaig/overboard-claude-plugin"
   },
   "engines": {
     "node": ">=18.0.0"

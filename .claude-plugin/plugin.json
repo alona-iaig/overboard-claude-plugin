@@ -11,7 +11,7 @@
     "./commands/setup.md"
   ],
   "homepage": "https://overboard.studio",
-  "repository": "https://github.com/overboard-studio/claude-plugin",
+  "repository": "https://github.com/alona-iaig/overboard-claude-plugin",
   "license": "MIT",
   "keywords": ["whiteboard", "diagram", "flowchart", "collaboration", "ai", "overboard", "mcp", "visual"]
 }
